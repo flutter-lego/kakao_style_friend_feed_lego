@@ -1,7 +1,7 @@
 name: kakao_style_friend_feed_lego
 description: "Kakao style friend feed lego"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/lego
+repository: https://github.com/flutter-lego/kakao_style_friend_feed_lego
 
 version: 1.0.0
 
